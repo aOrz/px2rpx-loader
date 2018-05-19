@@ -1,6 +1,6 @@
 {
   "name": "px2rpx-loader",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "css post loader for px2rpx",
   "main": "index.js",
   "scripts": {
