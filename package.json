@@ -1,6 +1,6 @@
 {
   "name": "px2rpx-loader",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "css post loader for px2rpx",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/aOrz/px2rpx-loader",
   "dependencies": {
-    "px2rpx": "~0.5.2",
+    "px2rpx": "~0.5.3",
     "loader-utils": "^0.2.7"
   },
   "devDependencies": {
